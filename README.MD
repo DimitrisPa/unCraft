@@ -4,7 +4,7 @@
 
 *Adds more than 65 unique recipes 🧰 and 29 extra recipes to recycle already existing items ♻️!*
 
-![unCraft Logo](https://github.com/DimitrisPa/unCraft.uncraft%20logo.png)
+![unCraft Logo](https://github.com/DimitrisPa/uncraft%20logo.png)
 
 ---
 
