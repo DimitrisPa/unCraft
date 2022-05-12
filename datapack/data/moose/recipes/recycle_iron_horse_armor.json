@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "A"
+    ],
+    "key": {
+        "A": { 
+            "item": "minecraft:iron_horse_armor"
+        }
+    },
+
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 5
+    }
+
+}

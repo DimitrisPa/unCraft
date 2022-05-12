@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BCB",
+        "BBB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:cyan_dye"
+    },
+    "C": {
+        "item": "minecraft:chest"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:cyan_shulker_box",
+        "count": 1
+    }
+}

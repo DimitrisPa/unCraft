@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "D"
+    ],
+    "key": {
+        "D": { 
+            "item": "minecraft:iron_door"
+        }
+    },
+
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 6
+    }
+
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LCL",
+        "LLL"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:light_gray_dye"
+    },
+    "C": {
+        "item": "minecraft:chest"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:light_gray_shulker_box",
+        "count": 1
+    }
+}

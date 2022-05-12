@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LLL",
+        "LCL",
+        "LLL"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:lime_dye"
+    },
+    "C": {
+        "item": "minecraft:chest"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:lime_shulker_box",
+        "count": 1
+    }
+}

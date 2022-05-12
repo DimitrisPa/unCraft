@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "BBB",
+        "BDB",
+        "BBB"
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:sweet_berries"
+        },
+        "D":{
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:fox_spawn_egg",
+        "count": 1
+    }
+}

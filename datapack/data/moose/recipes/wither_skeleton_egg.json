@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SBS",
+        "SDS",
+        "SSS"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:bone"
+        },
+        "D":{
+            "item": "minecraft:diamond"
+        },
+        "B": {
+            "item": "minecraft:black_dye"
+        }
+    },
+    "result": {
+        "item": "minecraft:wither_skeleton_spawn_egg",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  ",
+        "RS",
+        "  "
+    ],
+    "key":{
+        "R":{
+            "item": "minecraft:redstone"
+        },
+        "S":{
+            "item": "minecraft:stone"
+        }
+    },
+
+    "result": {
+        "item": "minecraft:redstone_ore",
+        "count": 1
+    }
+}

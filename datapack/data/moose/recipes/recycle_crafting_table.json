@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "T"
+    ],
+    "key": {
+        "T": { 
+            "item": "minecraft:crafting_table"
+        }
+    },
+
+    "result": {
+        "item": "minecraft:oak_wood",
+        "count": 1
+    }
+
+}

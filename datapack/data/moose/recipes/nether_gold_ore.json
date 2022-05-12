@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  ",
+        "GN",
+        "  "
+    ],
+    "key":{
+        "G":{
+            "item": "minecraft:gold_nugget"
+        },
+        "N":{
+            "item": "minecraft:netherrack"
+        }
+    },
+
+    "result": {
+        "item": "minecraft:nether_gold_ore",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "HSH",
+        "HDH",
+        "HHH"
+    ],
+    "key": {
+        "H": {
+            "item": "minecraft:hay_block"
+        },
+        "D":{
+            "item": "minecraft:diamond"
+        },
+        "S" :{
+            "item": "minecraft:saddle"
+        }
+    },
+    "result": {
+        "item": "minecraft:horse_spawn_egg",
+        "count": 1
+    }
+}

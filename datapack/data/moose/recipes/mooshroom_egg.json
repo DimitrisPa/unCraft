@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "LML",
+        "LDL",
+        "LLL"
+    ],
+    "key": {
+        "L": {
+            "item": "minecraft:leather"
+        },
+        "D":{
+            "item": "minecraft:diamond"
+        },
+        "M" : {
+            "item": "minecraft:brown_mushroom"
+        }
+    },
+    "result": {
+        "item": "minecraft:mooshroom_spawn_egg",
+        "count": 1
+    }
+}

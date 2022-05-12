@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OCO",
+        "OOO"
+    ],
+    "key": {
+        "O": {
+            "item": "minecraft:orange_dye"
+    },
+    "C": {
+        "item": "minecraft:chest"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:orange_shulker_box",
+        "count": 1
+    }
+}

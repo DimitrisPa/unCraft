@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WCW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:white_dye"
+    },
+    "C": {
+        "item": "minecraft:chest"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:white_shulker_box",
+        "count": 1
+    }
+}

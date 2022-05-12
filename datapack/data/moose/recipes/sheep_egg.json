@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MMM",
+        "MDM",
+        "MMM"
+    ],
+    "key": {
+        "M": {
+            "item": "minecraft:mutton"
+        },
+        "D":{
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:sheep_spawn_egg",
+        "count": 1
+    }
+}

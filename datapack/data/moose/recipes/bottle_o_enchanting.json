@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "   ",
+        "EBE",
+        "   "
+    ],
+    "key": {
+        "B": {
+            "item": "minecraft:glass_bottle"
+        },
+        "E":{
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "item": "minecraft:experience_bottle",
+        "count": 1
+    }
+}

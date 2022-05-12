@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  ",
+        "IS",
+        "  "
+    ],
+    "key":{
+        "I":{
+            "item": "minecraft:iron_ingot"
+        },
+        "S":{
+            "item": "minecraft:stone"
+        }
+    },
+
+    "result": {
+        "item": "minecraft:iron_ore",
+        "count": 1
+    }
+}

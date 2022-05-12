@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " C ",
+        " T ",
+        " B "
+    ],
+    "key": {
+        "C": {
+            "item": "minecraft:coal"
+        },
+        "T":{
+            "item": "minecraft:torch"
+        },
+        "B":{
+            "item": "minecraft:bucket"
+        }
+    },
+    "result": {
+        "item": "minecraft:lava_bucket",
+        "count": 1
+    }
+}

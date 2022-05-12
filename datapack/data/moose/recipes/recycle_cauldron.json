@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "C"
+    ],
+    "key": {
+        "C": { 
+            "item": "minecraft:cauldron"
+        }
+    },
+
+    "result": {
+        "item": "minecraft:iron_ingot",
+        "count": 7
+    }
+
+}

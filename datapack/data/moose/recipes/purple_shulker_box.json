@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "PPP",
+        "PCP",
+        "PPP"
+    ],
+    "key": {
+        "P": {
+            "item": "minecraft:purple_dye"
+    },
+    "C": {
+        "item": "minecraft:chest"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:purple_shulker_box",
+        "count": 1
+    }
+}

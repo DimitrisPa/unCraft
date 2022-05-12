@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "YYY",
+        "YCY",
+        "YYY"
+    ],
+    "key": {
+        "Y": {
+            "item": "minecraft:yellow_dye"
+    },
+    "C": {
+        "item": "minecraft:chest"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:yellow_shulker_box",
+        "count": 1
+    }
+}

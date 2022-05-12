@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  ",
+        "DS",
+        "  "
+    ],
+    "key":{
+        "D":{
+            "item": "minecraft:diamond"
+        },
+        "S":{
+            "item": "minecraft:stone"
+        }
+    },
+
+    "result": {
+        "item": "minecraft:diamond_ore",
+        "count": 1
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "RRR",
+        "RCR",
+        "RRR"
+    ],
+    "key": {
+        "R": {
+            "item": "minecraft:red_dye"
+    },
+    "C": {
+        "item": "minecraft:chest"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:red_shulker_box",
+        "count": 1
+    }
+}

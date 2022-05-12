@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "I I",
+        " E ",
+        "D I"
+    ],
+    "key": {
+        "I": {
+            "item": "minecraft:iron_ingot"
+    },
+    "D": {
+        "item": "minecraft:diamond"
+    },
+    "E": {
+        "item": "minecraft:emerald"
+    }
+},
+    
+    "result": {
+        "item": "minecraft:trident",
+        "count": 1
+    }
+}

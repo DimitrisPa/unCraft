@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "MMM",
+        "MDM",
+        "MMM"
+    ],
+    "key": {
+        "M": {
+            "item": "minecraft:chicken"
+        },
+        "D":{
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "minecraft:chicken_spawn_egg",
+        "count": 1
+    }
+}
