@@ -6,11 +6,11 @@ Adds more than 65 unique recipes 🧰 and 29 extra recipes to recycle already ex
 
 ![unCraft Logo](assets/uncraft_logo.png)
 
-## TODO
+## TODO 🗹
 
 - Add new recipes
 - Update some op recipes
 
-## License
+## License 📜
 
 - Licensed under [GPLv3](LICENSE)
