@@ -1,10 +1,13 @@
-# unCraft 🔨
+<h1 align="center"> <img src="assets/uncraft_logo.png" alt="unCraft"/>
+<br/>
+unCraft 🔨
+</h1>
 
-**unCraft 🔨 is a Minecraft Datapack for crafting ⚒️ unique items and giving the ability to recycle them ♻️ on the crafting table.**
+<p align="center"><b>unCraft is a Minecraft datapack for crafting unique items and giving the ability to recycle them on the crafting table.</b></p>
 
-Adds more than 65 unique recipes 🧰 and 29 extra recipes to recycle already existing items ♻️!
+## Features 🧰
 
-![unCraft Logo](assets/uncraft_logo.png)
+Includes more than **65 unique recipes** and **29 additional recipes** to recycle already existing items!
 
 ## TODO 🗹
 
